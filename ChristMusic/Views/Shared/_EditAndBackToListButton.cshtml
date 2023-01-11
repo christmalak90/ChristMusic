@@ -1,0 +1,10 @@
+﻿@model int
+
+<div class="row">
+    <div class="col">
+        <button type="submit" class="btn btn-primary form-control" asp-route-id="@Model">Edit</button><!--asp-route-id="@Model" is used to contain the id of the object to be edited otherwise it will not work. You can also pass the Id by creating an Hidden input field in the view such as "<input type="hidden" asp-for="Product.Id"/>"-->
+    </div>
+    <div class="col">
+        <a asp-action="Index" class="btn btn-success form-control">Back to List</a>
+    </div>
+</div>

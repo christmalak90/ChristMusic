@@ -1,0 +1,12 @@
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.csprojAssemblyReference.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.AssemblyInfo.cs
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\bin\Debug\netcoreapp3.1\ChristMusic.Models.dll
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\bin\Debug\netcoreapp3.1\ChristMusic.DataAccess.deps.json
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\bin\Debug\netcoreapp3.1\ChristMusic.DataAccess.dll
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\bin\Debug\netcoreapp3.1\ChristMusic.DataAccess.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\bin\Debug\netcoreapp3.1\ChristMusic.Models.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.csproj.CopyComplete
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.dll
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.DataAccess\obj\Debug\netcoreapp3.1\ChristMusic.DataAccess.pdb

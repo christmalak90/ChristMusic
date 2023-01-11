@@ -1,0 +1,9 @@
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.csprojAssemblyReference.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.AssemblyInfoInputs.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.AssemblyInfo.cs
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.csproj.CoreCompileInputs.cache
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\bin\Debug\netcoreapp3.1\ChristMusic.Models.deps.json
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\bin\Debug\netcoreapp3.1\ChristMusic.Models.dll
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\bin\Debug\netcoreapp3.1\ChristMusic.Models.pdb
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.dll
+C:\Users\christian\Documents\Personal\Computer Science Tutos\Microsoft\Udemy\Complete guide to ASP.NET Core MVC (.NET 5)\ChristMusic.Models\obj\Debug\netcoreapp3.1\ChristMusic.Models.pdb
